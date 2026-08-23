@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.btn{
+    font-size:28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+.btn.one{
+    color: white;
+    background-color: black;
+}
+.btn.two{
+    color: black;
+    background-color: yellow;
+}
